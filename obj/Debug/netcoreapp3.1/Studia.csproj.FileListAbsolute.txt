@@ -1,0 +1,11 @@
+C:\Users\BOFH\Desktop\Studia\bin\Debug\netcoreapp3.1\Studia.exe
+C:\Users\BOFH\Desktop\Studia\bin\Debug\netcoreapp3.1\Studia.deps.json
+C:\Users\BOFH\Desktop\Studia\bin\Debug\netcoreapp3.1\Studia.runtimeconfig.json
+C:\Users\BOFH\Desktop\Studia\bin\Debug\netcoreapp3.1\Studia.runtimeconfig.dev.json
+C:\Users\BOFH\Desktop\Studia\bin\Debug\netcoreapp3.1\Studia.dll
+C:\Users\BOFH\Desktop\Studia\bin\Debug\netcoreapp3.1\Studia.pdb
+C:\Users\BOFH\Desktop\Studia\obj\Debug\netcoreapp3.1\Studia.csprojAssemblyReference.cache
+C:\Users\BOFH\Desktop\Studia\obj\Debug\netcoreapp3.1\Studia.AssemblyInfoInputs.cache
+C:\Users\BOFH\Desktop\Studia\obj\Debug\netcoreapp3.1\Studia.AssemblyInfo.cs
+C:\Users\BOFH\Desktop\Studia\obj\Debug\netcoreapp3.1\Studia.dll
+C:\Users\BOFH\Desktop\Studia\obj\Debug\netcoreapp3.1\Studia.pdb
